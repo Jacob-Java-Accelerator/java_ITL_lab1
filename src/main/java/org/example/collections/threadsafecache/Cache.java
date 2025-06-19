@@ -1,4 +1,4 @@
-package org.example.collections;
+package org.example.collections.threadsafecache;    
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
